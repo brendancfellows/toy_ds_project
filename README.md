@@ -1,2 +1,3 @@
 # toy_ds_project
-added creation date: 2/5/2025
+project creation date: 2/5/2025
+author: Brendan Fellows
